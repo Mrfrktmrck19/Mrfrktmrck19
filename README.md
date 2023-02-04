@@ -9,11 +9,11 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Mrfrktrmrck19&label=Profile%20views&color=24b6ff&style=plastic" alt="Mrfrktrmrck19" /> </p>
 
 
-- 🌱 I’m currently learning **.Net Core**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [in/mrfrktmrck](https://www.linkedin.com/in/mrfrktmrck/)
 
-- 💬 Ask me about **C#, Javascript, Nodejs, ASP.Net Core, MongoDB, SQL**
+- 💬 Ask me about **Python, Scikit, SciPY, Keras, Tenserflow, Pytorch, MongoDB, SQL**
 
 - 📫 How to reach me **mrfrktmrck@gmail.com**
 
